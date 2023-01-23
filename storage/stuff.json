@@ -1,11 +1,13 @@
 {
   "storage": [
     {
-        "id": 0000,
+        "id": "0000",
         "name": "Box Test",
         "room": "test",
-        "shelf": "testshelf",
+        "shelf": true,
+        "shelfname": "testshelf",
         "shelfcoordinates": "A0",
+        "location": "null",
         "contents": [
           "thing1",
           "thing2",
