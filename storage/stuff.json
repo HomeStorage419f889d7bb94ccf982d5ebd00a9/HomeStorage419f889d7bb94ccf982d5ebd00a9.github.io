@@ -1,0 +1,19 @@
+{
+  "storage": [
+    {
+        "id": 0000,
+        "name": "Box Test",
+        "room": "test",
+        "shelf": "testshelf",
+        "shelfcoordinates": "A0",
+        "contents": [
+          "thing1",
+          "thing2",
+          "thing3"
+          ],
+        "imgurls": [
+          "img.etc/thing1",
+          "img.etc/thing2",
+          "img.etc/thing3"
+          ]
+    }
